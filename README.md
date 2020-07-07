@@ -1,6 +1,6 @@
 # jsonschematic
 
-jsonschematic is a [json schema][] in the same vein as
+jsonschematic is a [json schema][] viewer in the same vein as
 [docson][].
 
 The interactive(!) demo page lives at [https://yanick.github.io/jsonschematic/](https://yanick.github.io/jsonschematic/).
